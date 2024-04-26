@@ -3,7 +3,7 @@ name: 3 Deploy Analytics Env
 on: workflow_dispatch
 
 env:
-  AZURE_RG: OABoT_POC
+  AZURE_RG: pi-rg-dev-lab-mpereira
   AZURE_SUBSCRIPTION: ${{ secrets.AZURE_SUBSCRIPTION }}
   AZURE_CREDENTIALS: ${{ secrets.AZURE_CREDENTIALS }}
   AZURE_REGION: eastus
