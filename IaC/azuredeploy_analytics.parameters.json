@@ -3,22 +3,22 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
       "accountDataLakeName": {
-        "value": "GEN-UNIQUE"
+        "value": "dlmap001"
       },
       "location": {
         "value": "eastus2"
       },
         "accountCognitiveSearchName": {
-        "value": "GEN-UNIQUE"
+        "value": "csearchmap001"
       },
          "serverName": {
-         "value": "GEN-UNIQUE"
+         "value": "admmap001"
       },
         "administratorLogin": {
-        "value": "GEN-UNIQUE"
+        "value": "map001"
       },
         "administratorLoginPassword": {
-        "value": "GEN-PASSWORD"
+        "value": "Nint3ndo@64"
       },
         "blobContainerName": {
         "value": "yourowndata"
